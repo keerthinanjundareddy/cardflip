@@ -11,7 +11,7 @@ body{
 
   }
   
-  .card {
+  .card{
     /* adjust flex-basis and margin for the cards for gap between cards */
     flex-basis: calc(33.33% - 80px);
     margin: 20px 40px 20px 40px;
@@ -29,7 +29,7 @@ body{
     transition: transform 0.5s;
   }
   
-  .card:hover .card-inner {
+  .cards:hover .card-inner {
     transform: rotateY(180deg);
   }
   

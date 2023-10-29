@@ -22,7 +22,7 @@ const dummyData = [
 function Cardsimage() {
   return (
     <>
-    <div className='digital-heading'>DIGITAL AND PERFORMANCE MARKETING</div>
+    <div className='digital-heading'>OUR-OFFERS(DIGITAL AND PERFORMANCE MARKETING)</div>
     <div className='card-container'>
      
       {dummyData.map((data, index) => (
